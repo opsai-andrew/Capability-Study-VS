@@ -8,6 +8,7 @@ import streamlit as st
 st.set_page_config(page_title="Capability Study", layout="wide")
 st.title("Capability Study Analyzer")
 
+
 # ---------- helpers ----------
 def moving_range_sigma(x):
     x = np.asarray(x, dtype=float)
