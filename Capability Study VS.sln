@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Capability Study VS", "Capability Study VS.pyproj", "{FD9E4F89-C0CF-451A-AA22-197E0A73C759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD9E4F89-C0CF-451A-AA22-197E0A73C759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9E4F89-C0CF-451A-AA22-197E0A73C759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {677FA1DB-A69C-4065-BC7D-3B1C5477F0F9}
+	EndGlobalSection
+EndGlobal
